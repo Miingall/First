@@ -1,0 +1,14 @@
+h1{
+  font-size: 43px;
+  color: #303030;
+  padding: 15px;
+  color: rgb(49, 13, 13);
+  text-align: center;
+}
+
+h2{
+  font-size: 24px;
+  text-transform: uppercase;
+  color: #303030;
+  font-weight: 600;
+}
